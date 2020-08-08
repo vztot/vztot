@@ -1,4 +1,9 @@
 ### Hi there 👋
+📫 How to reach me:
+ - :link: : linkedin.com/in/oleksandr-husenko-6a63a2b3/
+ - :email: : oleksandrhusenko@gmail.com
+
+⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
 
 <!--
 **vztot/vztot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
